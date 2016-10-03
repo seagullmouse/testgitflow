@@ -3,3 +3,4 @@ feature2 edit2
 feature2 edit3
 release1 edit2
 feature3 edit1
+feature3 edit2
